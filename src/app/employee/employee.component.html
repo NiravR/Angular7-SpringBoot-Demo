@@ -1,0 +1,7 @@
+<h1>Employees</h1>
+
+<ul *ngIf="employees">
+  <li *ngFor="let employee of employees">
+    <p>{{ employee.id }} {{ employee.name }} {{ employee.surname }}</p>
+  </li>
+</ul>
