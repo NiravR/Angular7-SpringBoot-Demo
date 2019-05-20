@@ -1,4 +1,5 @@
-For Back-end use https://github.com/NiravR/SpringbootEmployeeApp Which build on Spring Boot Framework
+For Back-end use Spring boot project under "Server-springboot" Folder.
+For Front end, access Angular 7 Project under Client-Angular Folder
 # Ng7
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
